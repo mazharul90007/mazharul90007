@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MongoDB, Express Js, Node Js, React<br>🎯 Goals: Become a Senior Developer and Build Innovative Projects.<br>🎲 Fun fact: Spending hours looking at other developers' cool projects—it's my way of 'researching'!..😄</p>
+<h4 align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MongoDB, Express Js, Node Js, React<br>🎯 Goals: Become a Senior Developer and Build Innovative Projects.<br>🎲 Fun fact: Spending hours looking at other developers' cool projects—it's my way of 'researching'!..😄</h4>
 
 ###
 
