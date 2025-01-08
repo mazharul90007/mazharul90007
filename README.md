@@ -54,7 +54,7 @@
 
 ###
 
-<h4 align="left">📬 Let's Connect</h4>
+<h3 align="left">📬 Let's Connect</h3>
 
 ###
 
@@ -76,6 +76,6 @@
 
 ###
 
-<h4 align="left">⭐ If you find my work helpful or interesting, please consider giving my projects a star!</h4>
+<h3 align="left">⭐ If you find my work helpful or interesting, please consider giving my projects a star!</h3>
 
 ###
