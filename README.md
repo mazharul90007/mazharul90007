@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/FHWqL5G/Mazharul-Islam-Sourabh-1.png"  />
+  <img height="250" src="https://i.ibb.co.com/FHWqL5G/Mazharul-Islam-Sourabh-1.png"  />
 </div>
 
 ###
