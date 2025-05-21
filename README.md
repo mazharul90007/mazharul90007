@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/FHWqL5G/Mazharul-Islam-Sourabh-1.png"  />
+  <img height="250" width="100%" src="https://i.ibb.co.com/FHWqL5G/Mazharul-Islam-Sourabh-1.png"  />
 </div>
 
 ###
@@ -10,23 +10,18 @@
 
 <h4 align="center">Junior Developer | Frontend Developer | Aspiring Full-Stack Developer | Bangladesh</h4>
 
-###
+<h2 align="center">👨🏻‍💻 About me</h2>
 
-<h3 align="left">👨🏻‍💻 About me</h3>
-
-###
-
-<p align="left">I am Mazharul Islam Sourabh, a passionate Junior Web Developer with a strong focus on MERN stack development. My programming journey began in January 2023, and since then, I have been dedicated to honing my skills and staying up-to-date with the latest technologies.</p>
+<p align="center">I am Mazharul Islam Sourabh, a passionate <strong>Web Developer</strong> with a strong focus on <strong>MERN</strong> stack development. I am passionate about building
+user-friendly, responsive web applications</p>
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MongoDB, Express Js, Node Js, React<br>🎯 Goals: Become a Senior Developer and Build Innovative Projects.<br>🎲 Fun fact: Spending hours looking at other developers' cool projects—it's my way of 'researching'!..😄</h4>
+<h4 align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Advance MongoDB, Express Js, Node Js, React, Redux & Next.js<br>🎯 Goals: Become a Senior Developer and Build Innovative Projects.<br>🎲 Fun fact: Spending hours looking at other developers' cool projects—it's my way of 'researching'!..😄</h4>
 
-###
+---
 
-<h2 align="left">🛠️ Languages and Tools</h2>
-
-###
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
@@ -58,37 +53,51 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">📬 Let's Connect</h3>
-
-###
-
-<p align="left">I'm always eager to collaborate on exciting projects or chat about tech. Feel free to connect with me through any of the platforms below!</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mazharul-islam-sourabh-4111b3227/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mazharul90007@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.gg/dtM6fEXu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">⭐ If you find my work helpful or interesting, please consider giving my projects a star!</h3>
-
-###
+<h3 align="center">📊 GitHub Stats & Activity</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mazharul90007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazharul90007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/misourabh/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mazharul90007">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://misourabh.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=for-the-badge&logo=dribbble&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🎯 2025 Goals</h2>
+
+<ul align="center">
+  <p>🚀 Launch <strong>EzyTicket</strong> with an engaging user experience</p>
+  <p>🎉 Scale <strong>Nesttree</strong> to reach more users</p>
+  <p>🧠 Master advanced frontend technologies and best practices</p>
+  <p>🤝 Collaborate on impactful open-source projects</p>
+</ul>
+
+---
+
+<h2 align="center">💖 Fun Badges</h2>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Love Badge" />
+  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="JS Badge" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Coffee Badge" />
+</p>
+
+<h3 align="center">⭐ Let's Build Something Incredible Together! ⭐</h3>
+
