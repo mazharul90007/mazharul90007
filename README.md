@@ -1,6 +1,12 @@
 <div align="center">
   <img height="250" width="100%" src="https://i.ibb.co.com/FHWqL5G/Mazharul-Islam-Sourabh-1.png"  />
 </div>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/fiamanillah?label=Followers&style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/fiamanillah?label=Stars&style=social" alt="Stars" />
+</p>
+
 
 ###
 
