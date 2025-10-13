@@ -14,16 +14,16 @@
 
 ###
 
-<h4 align="center">Junior Developer | Frontend Developer | Aspiring Full-Stack Developer | Bangladesh</h4>
+<h4 align="center">Fullstack Developer | Web and Mobile App Developer | Backend Developer | Bangladesh</h4>
 
 <h2 align="center">👨🏻‍💻 About me</h2>
 
-<p align="center">I am Mazharul Islam Sourabh, a passionate <strong>Web Developer</strong> with a strong focus on <strong>MERN</strong> stack development. I am passionate about building
-user-friendly, responsive web applications</p>
+<p align="center">I am Mazharul Islam Sourabh, a passionate <strong>Web & Mobile App (Android & IOS) Developer</strong>. I am passionate about building
+user-friendly, responsive web and Mobile App (React Native) applications</p>
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Advance MongoDB, Express Js, Node Js, React, Redux & Next.js<br>🎯 Goals: Become a Senior Developer and Build Innovative Projects.<br>🎲 Fun fact: Spending hours looking at other developers' cool projects—it's my way of 'researching'!..😄</h4>
+<h4 align="left">✨ Creating bugs since 2023<br>📚 I have well knowledge on Postgres, Prisma, MongoDB, Mongoose, Express Js, Node Js, React, Redux & Next.js, TypeScript React Native<br>🎯 Goals: Become a Senior Developer and Build Innovative Projects.<br>🎲 Fun fact: Spending hours looking at other developers' cool projects—it's my way of 'researching'!..😄</h4>
 
 ---
 
