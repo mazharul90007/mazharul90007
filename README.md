@@ -33,22 +33,31 @@ user-friendly, responsive web and Mobile App (React Native) applications</p>
   <table style="width:100%;">
     <tr>
       <td><strong>Frontend</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=react,redux,js,ts,tailwind,bootstrap,html,css" alt="Frontend"></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=react,reactnative,redux,js,ts,tailwind,bootstrap,html,css" alt="Frontend">
+      </td>
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" alt="Backend"></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgresql,firebase,mongodb" alt="Backend">
+      </td>
     </tr>
     <tr>
       <td><strong>Dev Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=github,vscode,postman" alt="Dev Tools"></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=github,vscode,postman" alt="Dev Tools">
+      </td>
     </tr>
     <tr>
       <td><strong>Design Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design Tools"></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design Tools">
+      </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
