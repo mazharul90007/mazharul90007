@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" width="100%" src="https://i.ibb.co.com/fdyfn8BQ/github.jpg"  />
+  <img height="250" width="100%" src="https://res.cloudinary.com/dp6urj3gj/image/upload/v1763229338/github_1_jxvdrd.png"  />
 </div>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
