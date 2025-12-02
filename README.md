@@ -101,7 +101,7 @@ user-friendly, responsive web and Mobile App (React Native) applications</p>
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Love Badge" />
-  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="JS Badge" />
+  <img src="https://forthebadge.com/badges/made-with-typescript.svg" alt="JS Badge" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Coffee Badge" />
 </p>
 
