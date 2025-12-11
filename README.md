@@ -18,7 +18,7 @@
 
 <h2 align="center">👨🏻‍💻 About me</h2>
 
-<p align="center">I am Mazharul Islam Sourabh, a passionate <strong>Web & Mobile App (Android & IOS) Developer</strong>. I am passionate about building
+<p align="center">I am Mazharul Islam Sourabh, a passionate <strong>Fullstack Web & Mobile App (Android & IOS) Developer</strong>. I am passionate about building
 user-friendly, responsive web and Mobile App (React Native) applications</p>
 
 ###
