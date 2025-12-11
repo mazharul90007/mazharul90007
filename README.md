@@ -23,7 +23,7 @@ user-friendly, responsive web and Mobile App (React Native) applications</p>
 
 ###
 
-<h4 align="left">✨ Debugging issues & Fixing bugs since 2023<br>📚 I have well knowledge on Postgres, Prisma, MongoDB, Mongoose, Express Js, Node Js, React, Redux & Next.js, TypeScript React Native<br>🎯 Goals: Become a Senior Developer and Build Innovative Projects.<br>🎲 Fun fact: Spending hours looking at other developers' cool projects—it's my way of 'researching'!..😄</h4>
+<h4 align="left">🐞 Debugging issues & Fixing bugs since 2023<br>📚 I have well knowledge on Postgres, Prisma, MongoDB, Mongoose, Express Js, Node Js, React, Redux & Next.js, TypeScript React Native<br>🎯 Goals: Become a Senior Developer and Build Innovative Projects.<br>🎲 Fun fact: Spending hours looking at other developers' cool projects—it's my way of 'researching'!..😄</h4>
 
 ---
 
