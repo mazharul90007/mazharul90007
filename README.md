@@ -86,11 +86,11 @@ user-friendly, responsive web and Mobile App (React Native) applications</p>
 
 ---
 
-<h2 align="center">🎯 2025 Goals</h2>
+<h2 align="center">🎯 2026 Goals</h2>
 
 <ul align="center">
-  <p>🚀 Launch <strong>EzyTicket</strong> with an engaging user experience</p>
-  <p>🎉 Scale <strong>Nesttree</strong> to reach more users</p>
+  <p>🚀 Launch <strong>Bd Destination</strong> with an engaging user experience</p>
+  <p>🎉 Upgrade my Backend Logic & DevOps Knowledge</p>
   <p>🧠 Master advanced frontend technologies and best practices</p>
   <p>🤝 Collaborate on impactful open-source projects</p>
 </ul>
