@@ -34,19 +34,19 @@ user-friendly, responsive web and Mobile App (React Native) applications</p>
     <tr>
       <td><strong>Frontend</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=react,reactnative,redux,js,ts,tailwind,bootstrap,html,css" alt="Frontend">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,tailwind,bootstrap,html,css" alt="Frontend">
       </td>
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgresql,firebase,mongodb" alt="Backend">
+        <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgresql,prisma,mongodb,firebase,mongoose" alt="Backend">
       </td>
     </tr>
     <tr>
       <td><strong>Dev Tools</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=github,vscode,postman" alt="Dev Tools">
+        <img src="https://skillicons.dev/icons?i=github,docker,postman,vscode" alt="Dev Tools">
       </td>
     </tr>
     <tr>
