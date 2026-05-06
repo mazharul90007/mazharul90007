@@ -61,15 +61,6 @@ user-friendly, responsive web and Mobile App (React Native) applications</p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats & Activity</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazharul90007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazharul90007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
----
-
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
@@ -79,7 +70,7 @@ user-friendly, responsive web and Mobile App (React Native) applications</p>
   <a href="https://github.com/mazharul90007">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://misourabh.netlify.app/">
+  <a href="https://misourabh.com">
     <img src="https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=for-the-badge&logo=dribbble&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -89,10 +80,11 @@ user-friendly, responsive web and Mobile App (React Native) applications</p>
 <h2 align="center">🎯 2026 Goals</h2>
 
 <ul align="center">
-  <p>🚀 Launch <strong>Bd Destination</strong> with an engaging user experience</p>
-  <p>🎉 Upgrade my Backend Logic & DevOps Knowledge</p>
-  <p>🧠 Master advanced frontend technologies and best practices</p>
-  <p>🤝 Collaborate on impactful open-source projects</p>
+  <p>🚀 Become a highly skilled Full-Stack Engineer with advanced expertise in scalable backend and modern frontend development</p>
+  <p>🧠 Build strong AI Application Engineering knowledge, including LLM integration, automation, and intelligent product development</p>
+  <p>☁️ Master advanced DevOps, Cloud Engineering, CI/CD, Docker, Kubernetes, and modern deployment strategies</p>
+  <p>💡 Develop impactful real-world products that combine Full-Stack, AI, and Cloud technologies</p>
+  <p>🤝 Contribute to meaningful open-source projects while continuously improving system design and software architecture skills</p>
 </ul>
 
 ---
