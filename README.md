@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="center">Fullstack Developer | Web & Mobile App Developer | Backend Developer | Bangladesh</h4>
+<h4 align="center">Fullstack Developer | Web & Mobile App Developer | Backend Developer | Dhaka, Bangladesh</h4>
 
 <h2 align="center">👨🏻‍💻 About me</h2>
 
