@@ -6,7 +6,7 @@
 <br/>
 
 **Software Engineer · Full Stack Web & Mobile · AI Automation**<br/>
-I build production-grade apps with **.NET**, **Next.js** and **React Native**, and add AI where it genuinely helps the product.
+I build production-grade apps with **.NET**, **Nest.js**, **Next.js** and **React Native**, and add AI where it genuinely helps the product.
 
 <br/>
 
