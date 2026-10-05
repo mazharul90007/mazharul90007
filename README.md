@@ -1,101 +1,109 @@
+
 <div align="center">
-  <img height="250" width="100%" src="https://res.cloudinary.com/dp6urj3gj/image/upload/v1791226558/github1_n6oyqp.png"  />
-</div>
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/fiamanillah?label=Followers&style=social" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/fiamanillah?label=Stars&style=social" alt="Stars" />
-</p>
 
+<img src="https://res.cloudinary.com/dp6urj3gj/image/upload/v1791226558/github1_n6oyqp.png" alt="Mazharul Islam Sourabh, Full Stack Web & App Developer" width="100%" />
 
-###
+<br/>
 
-<h1 align="center">Mazharul Islam Sourabh</h1>
+**Software Engineer · Full Stack Web & Mobile · AI Automation**<br/>
+I build production-grade apps with **.NET**, **Next.js** and **React Native**, and add AI where it genuinely helps the product.
 
-###
+<br/>
 
-<h4 align="center">Fullstack Developer | Web & Mobile App Developer | Backend Developer | Dhaka, Bangladesh</h4>
+[![Portfolio](https://img.shields.io/badge/Portfolio-misourabh.com-0ea5e9?style=for-the-badge)](https://misourabh.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-misourabh-2563eb?style=for-the-badge)](https://www.linkedin.com/in/misourabh)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-ec4899?style=for-the-badge)](mailto:mazharul90007@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-8b5cf6?style=for-the-badge)](https://misourabh.com/resume/Resume_of_Sourabh.pdf)
 
-<h2 align="center">👨🏻‍💻 About me</h2>
-
-<p align="center">I am Mazharul Islam Sourabh, a passionate <strong>Fullstack Web and Mobile App (Android & IOS) Developer</strong>. I am passionate about building
-user-friendly, responsive web and Mobile App (React Native) applications</p>
-
-###
-
-<h4 align="left">🐞 Debugging issues and Fixing bugs since 2023<br>📚 I have well knowledge on Nest.js, Express Js, Node Js, Postgres, Prisma, MongoDB, Mongoose, Next.js, React, Redux, Zustand, Material UI & TypeScript <br>🎯 Goals: Become a Senior Developer and Build Innovative Projects.<br>🎲 Fun fact: Spending hours looking at other developers' cool projects—it's my way of 'researching'!..😄</h4>
-
----
-
-<h2 align="center">🛠️ Languages and Tools</h2>
-
-<div align="center" style="width:100%;">
-  <table style="width:100%;">
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,tailwind,bootstrap,html,css" alt="Frontend">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,postgresql,prisma,mongodb,firebase,mongoose" alt="Backend">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Dev Tools</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=github,docker,postman,vscode" alt="Dev Tools">
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Design Tools</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design Tools">
-      </td>
-    </tr>
-  </table>
 </div>
 
+---
+
+## 👋 About me
+
+I'm **Mazharul Islam Sourabh**, a software engineer based in Dhaka, Bangladesh. I have been writing code since 2023, and I like owning a feature end to end: the data model, the API, the web interface and the mobile app.
+
+- 💼 Software Engineer at **ANA Soft**, shipping web and mobile products
+- 🧱 Working daily with **C# / .NET**, **Next.js**, **React Native** and **Nest.js**
+- 🤖 Building **AI-powered features and automation**: LLM integration, RAG and workflow automation
+- 🎯 Focus: clean architecture, secure APIs, and apps that stay fast as they grow
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+## 🚀 What I do
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/misourabh/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mazharul90007">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://misourabh.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=for-the-badge&logo=dribbble&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+| 🌐 Web | 📱 Mobile | ⚙️ Backend & AI |
+| :--- | :--- | :--- |
+| Fast, responsive, accessible apps with Next.js, React, TypeScript and Tailwind CSS | Cross-platform **Android & iOS** apps with React Native, built around smooth state handling and clean API integration | Scalable REST APIs with .NET, Nest.js and Node.js, SQL / PostgreSQL, JWT auth and role-based access control, plus AI features powered by LLMs and RAG |
 
 ---
 
-<h2 align="center">🎯 2026 Goals</h2>
+## 🧰 Tech stack
 
-<ul align="center">
-  <p>🚀 Become a highly skilled Full-Stack Engineer with advanced expertise in scalable backend and modern frontend development</p>
-  <p>🧠 Build strong AI Application Engineering knowledge, including LLM integration, automation, and intelligent product development</p>
-  <p>☁️ Master advanced DevOps, Cloud Engineering, CI/CD, Docker, Kubernetes, and modern deployment strategies</p>
-  <p>💡 Develop impactful real-world products that combine Full-Stack, AI, and Cloud technologies</p>
-  <p>🤝 Contribute to meaningful open-source projects while continuously improving system design and software architecture skills</p>
-</ul>
+| | Technologies |
+| :--- | :--- |
+| **Languages** | C# · TypeScript · JavaScript<br/><img src="https://skillicons.dev/icons?i=cs,ts,js,html,css" alt="Languages" /> |
+| **Backend & Data** | .NET · Node.js · Nest.js · Express · SQL · PostgreSQL · Prisma · MongoDB · Redis<br/><img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,postgres,prisma,mongodb,redis" alt="Backend and data" /> |
+| **Web & Mobile** | Next.js · React · React Native · Redux · Zustand · Tailwind CSS<br/><img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind" alt="Web and mobile" /> |
+| **AI** | LLM integration · RAG · Automation workflows |
+| **Cloud & Tools** | AWS · Docker · Git · GitHub · Postman · Swagger · Figma<br/><img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,figma" alt="Cloud and tools" /> |
 
 ---
 
-<h2 align="center">💖 Fun Badges</h2>
+## 📌 Featured projects
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Love Badge" />
-  <img src="https://forthebadge.com/badges/made-with-typescript.svg" alt="JS Badge" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Coffee Badge" />
-</p>
+| Project | What it is | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Chaka Ride** | AI-powered ride-sharing and car rental platform with Passenger, Driver and Admin roles. Includes a natural-language Smart Trip Assistant and a driver bidding dashboard with an AI fair-price estimator. | Next.js, NestJS, TypeScript, PostgreSQL, Prisma, Better Auth, TanStack Query, Zustand, OpenRouter | [Live](https://chaka-ride.vercel.app/en) · [Client](https://github.com/mazharul90007/chaka_ride) · [Server](https://github.com/mazharul90007/chaka_ride_server) |
+| **Quick Hire** | Job portal where applicants find roles, manage profiles and track applications, with an admin dashboard for listings and platform operations. | Next.js, Express.js, TypeScript, PostgreSQL, Prisma, Better Auth, Zod, Stripe, RAG | [Live](https://quick-hire-client-chi.vercel.app) · [Client](https://github.com/mazharul90007/quick-hire) · [Server](https://github.com/mazharul90007/quick-hire-server) |
+| **Chemist BD** | E-commerce platform for pharmacies: browse medicines, manage the cart and place orders, with dashboards for sellers and admins. | Next.js, Express.js, TypeScript, PostgreSQL, Prisma, Better Auth, Zustand, TanStack Query | [Live](https://chemistbd-client.vercel.app) · [Client](https://github.com/mazharul90007/chemist-bd) · [Server](https://github.com/mazharul90007/chemist-bd-server) |
 
-<h3 align="center">⭐ Let's Build Something Incredible Together! ⭐</h3>
+---
 
+## 💼 Experience
+
+**Software Engineer · ANA Soft** (Dhaka) · *Jun 2026 – Present*
+- Building web and mobile products with Next.js, Nest.js, React Native and .NET
+- Shipping new features through APIs and integrating AI-driven functionality and automation
+- Keeping mobile apps responsive with fast state updates and smart data saving
+
+**Full Stack Developer · AxentraLab** (Remote) · *Jan 2026 – May 2026*
+- Developed SaaS products with Next.js and Nest.js, including AI-driven features
+- Designed scalable backends and data workflows using Node.js, PostgreSQL, Prisma and RAG
+- Built React Native mobile features for Android and iOS
+
+**Backend Developer · SM Technology** (Dhaka) · *Jun 2025 – Dec 2025*
+- Designed and deployed RESTful APIs with Next.js, Nest.js, Express.js, PostgreSQL and Prisma
+- Implemented JWT authentication and role-based access control (RBAC)
+- Integrated Stripe and PayPal payments and AWS services for storage and deployment
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mazharul90007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazharul90007&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+---
+
+## 🎓 Education & certifications
+
+- **B.Sc. in Mathematics**, Government Titumir College, Dhaka
+- Next Level Web Development 3.0, *Programming Hero*
+- Complete Web Development, *Programming Hero*
+- React Native: The Practical Guide, *Udemy (Academind)*
+- Professional Web Design, *BASIS SEIP*
+
+---
+
+<div align="center">
+
+### 🤝 Let's connect
+
+Always happy to talk about full-stack, mobile and AI projects.
+
+[**misourabh.com**](https://misourabh.com) · [**LinkedIn**](https://www.linkedin.com/in/misourabh) · [**mazharul90007@gmail.com**](mailto:mazharul90007@gmail.com)
+
+</div>
