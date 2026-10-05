@@ -40,13 +40,13 @@ I'm **Mazharul Islam Sourabh**, a software engineer based in Dhaka, Bangladesh. 
 
 ## 🧰 Tech stack
 
-| | Technologies |
-| :--- | :--- |
-| **Languages** | C# · TypeScript · JavaScript<br/><img src="https://skillicons.dev/icons?i=cs,ts,js,html,css" alt="Languages" /> |
-| **Backend & Data** | .NET · Node.js · Nest.js · Express · SQL · PostgreSQL · Prisma · MongoDB · Redis<br/><img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,postgres,prisma,mongodb,redis" alt="Backend and data" /> |
-| **Web & Mobile** | Next.js · React · React Native · Redux · Zustand · Tailwind CSS<br/><img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind" alt="Web and mobile" /> |
-| **AI** | LLM integration · RAG · Automation workflows |
-| **Cloud & Tools** | AWS · Docker · Git · GitHub · Postman · Swagger · Figma<br/><img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,figma" alt="Cloud and tools" /> |
+| Area | Technologies | How I use them |
+| :--- | :--- | :--- |
+| **Languages** | C# · TypeScript · JavaScript<br/><img src="https://skillicons.dev/icons?i=cs,ts,js,html,css" alt="Languages" /> | C# for .NET backend services, and TypeScript with Nest.js, Next.js and React Native across APIs, web apps and mobile apps, so the whole stack shares one typed language where it can |
+| **Backend & Data** | .NET · Node.js · Nest.js · Express · SQL · PostgreSQL · Prisma · MongoDB · Redis<br/><img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,postgres,prisma,mongodb,redis" alt="Backend and data" /> | Scalable REST APIs, JWT authentication with role-based access control, relational data modeling with SQL and ORM-based persistence |
+| **Web & Mobile** | Next.js · React · React Native · Redux · Zustand · Tailwind CSS<br/><img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind" alt="Web and mobile" /> | Fast, responsive web apps and cross-platform Android and iOS apps, with predictable state management and clean API integration |
+| **AI** | LLM integration · RAG · Automation workflows | AI assistants, retrieval-augmented generation and workflow automation built into real products, not bolted on afterwards |
+| **Cloud & Tools** | AWS · Docker · Git · GitHub · Postman · Swagger · Figma<br/><img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,figma" alt="Cloud and tools" /> | Containerized builds, AWS storage and deployment, API testing and documentation, and design handoff from Figma |
 
 ---
 
