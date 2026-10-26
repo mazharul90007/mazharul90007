@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://res.cloudinary.com/dp6urj3gj/image/upload/v1791226558/github1_n6oyqp.png" alt="Mazharul Islam Sourabh, Full Stack Web & App Developer" width="100%" />
+<img src="https://res.cloudinary.com/dp6urj3gj/image/upload/v1791226558/github1_n6oyqp.png" alt="Mazharul Islam Sourabh, Full Stack Web & App Developer." width="100%" />
 
 <br/>
 
